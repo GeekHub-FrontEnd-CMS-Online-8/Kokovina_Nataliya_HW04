@@ -1,0 +1,259 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 2000px;
+    height: 4051px;    
+}
+.cookiesMes{
+    height: 72px;
+    background-color: #194277;
+    padding-top: 20px;
+}
+.cookiesText{
+    margin-left: 745px;
+    width: 346px;
+    color: #ffffff;
+    font-family: Lato;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 36px;
+}
+.accept{
+    width: 112px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-left: 70px;
+}
+.headerBlock{
+    width: 2000px;
+    height: 872px;
+    margin-top: 0px;
+    background-color: #3695ff;
+    display: inline-block;
+    margin: 0 auto;    
+}
+.circle img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px; 
+}
+.menu{
+    float: right;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+.down{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px; 
+
+}
+h1{
+    width: 809px;
+    height: 98px;
+    color: #ffffff;
+    font-family: "Lato - Black";
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 60px;
+    padding-top: 50px;
+    text-transform: uppercase;
+    letter-spacing: 1.25px;
+    text-align: center;
+    margin: 0 auto;
+}
+.headerBlock p{
+width: 765px;
+height: 50px;
+color: #ffffff;
+font-family: Lato;
+font-size: 16px;
+font-weight: 300;
+line-height: 35px;
+text-transform: uppercase;
+letter-spacing: 0.4px;
+text-align: center;
+padding-top: 150px;
+margin: 0 auto;
+}
+.hireMe{
+    width: 204px;
+    height: 55px;
+    border-radius: 28px;
+    background-color: #ffffff;
+    color: #3695ff;
+font-family: Lato;
+font-size: 16px;
+font-weight: 700;
+line-height: 30px;
+text-transform: uppercase;
+letter-spacing: 0.4px;
+display: block;
+margin: 0 auto;
+margin-top: 130px;
+}
+.AboutMe{
+    text-align: center;
+    height: 408px;
+}
+.AboutMe p{
+    width: 1067px;
+    height: 85px;
+    color: #5a5a5a;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+    margin: 0 auto;
+}
+h2{
+background-clip: text;
+color: #3677fd;
+font-family: Lato;
+font-size: 50px;
+font-weight: 300;
+line-height: 35.12px;
+text-align: center;
+padding-top: 99px;
+padding-bottom: 50px;
+}
+
+.ExpertIn{
+    width: 2000px;
+    height: 1145px;
+    background-color: #f1f8ff;
+}
+.wrap{
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+    margin: 0 auto;
+    
+}
+.tasks{
+ width: 355px;
+ height: 338px;
+ overflow: auto;
+ margin: 20px;
+ overflow: hidden;
+ margin-top: 50px;
+ }
+
+h3{
+color: #3677fd;
+font-family: Lato;
+font-size: 24px;
+font-weight: 700;
+line-height: 24px;
+text-transform: uppercase;
+text-align: center;
+
+}
+
+.tasks img{
+margin: 0 auto;
+display: block;
+margin-top: 50px;
+
+}
+.tasks p{
+color: #5a5a5a;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+line-height: 35px;
+text-align: center;
+}
+.circleBorder{
+    border-radius: 50%;
+    border: 1px gray inset;
+    height: 175px;
+    width: 175px;
+    margin: 0 auto;
+display: block;
+margin-top: 0px;
+margin-bottom: 50px;
+    }
+
+.latestWorks{
+    height: 950px;
+}
+.worksWrap{
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+    margin: 0 auto;
+}
+.works{
+width: 359px;
+height: 269px;
+border-radius: 10px;
+border: 1px solid #f4f4f4;
+background-color: #f4f4f4;
+    overflow: auto;
+    margin: 20px;
+    overflow: hidden;
+    margin-top: 50px;
+    }
+.works img{
+    display: block;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.firstFooter{
+    width: 2000px;
+    height: 363px;
+    background-color: #f1f8ff;
+}
+
+.logo{
+    width: 1043px;
+height: 56px;
+    margin: 0 auto;
+    
+}
+.footer{
+    width: 2000px;
+    height: 247px;
+    background-color: #e8f3ff;
+    background-image: linear-gradient(51deg, #3695ff 0%, #3564fc 100%);
+    text-align: center;
+    padding-top: 100px;
+}
+.footer label{
+    width: 870px;
+height: 47px;
+color: #ffffff;
+font-family: Lato;
+font-size: 50px;
+font-weight: 300;
+
+}
+
+strong{
+    color: #ffffff;
+    font-family: "Lato Light";
+    font-weight: 700;
+   
+}
+.footer button{
+    width: 204px;
+    height: 55px;
+    border-radius: 28px;
+    background-color: #ffffff;
+    color: #3695ff;
+font-family: Lato;
+font-size: 16px;
+font-weight: 700;
+}
